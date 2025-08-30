@@ -29,3 +29,9 @@ uv.lock
 # OS
 .DS_Store
 Thumbs.db
+
+# Replit stuff
+.replit
+replit.md
+uv.lock
+.local/
