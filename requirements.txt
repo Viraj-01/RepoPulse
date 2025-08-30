@@ -1,14 +1,6 @@
-# Core
 streamlit>=1.36.0
 requests>=2.31.0
 pandas>=2.2.0
-
-# Visualization
-matplotlib>=3.8.0
 plotly>=5.22.0
-
-# Formatting / Console output
+matplotlib>=3.8.0
 rich>=14.1.0
-PyGithub>=2.3.0
-
-numpy>=1.26.0
